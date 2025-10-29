@@ -44,7 +44,8 @@ VITE_REVERB_SCHEME="http"
 ```
 
 3. **echo.js File**
-   echo.js file is created automatically when you install reverb, no configuration is required in the file.
+
+-   **echo.js file is created automatically when you install reverb, no configuration is required in the file.**
 
 ```
 import Echo from 'laravel-echo';
