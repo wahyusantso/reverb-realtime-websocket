@@ -3,6 +3,7 @@
 > Project ini contoh implementasi websocket dengan menggunakan laravel Reverb, untuk melihat realtime data yang saya tampilkan dalam bentuk datatable.
 
 > Saya membuat 2 halaman:
+
 > Halaman Student Data: menampilkan data mahasiswa dalam bentuk table yang saya buat dengan datatable yajra. table ini akan otomatis update tanpa harus melakukan refresh halaman ketika terjadi perubahan data. saya menambahkan listener pada halaman ini, ketika event terjadi akan otomatis update data table.
 
 > Halaman Student Form: halaman ini hanya menampilkan form untuk menghapus data sekaligus untuk menguji trigger event.
